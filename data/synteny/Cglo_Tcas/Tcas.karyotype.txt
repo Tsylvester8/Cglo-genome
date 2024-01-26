@@ -1,0 +1,12 @@
+chr - Tcasspacer1 Tcas 0 10000000 white
+chr - lg2 lg2 0 15265516 lg2
+chr - lg3 lg3 0 31381287 lg3
+chr - lg4 lg4 0 12290766 lg4
+chr - lg5 lg5 0 15459558 lg5
+chr - lg6 lg6 0 10086398 lg6
+chr - lg7 lg7 0 16482863 lg7
+chr - lg8 lg8 0 14581690 lg8
+chr - lg9 lg9 0 16184580 lg9
+chr - lg10 lg10 0 7222678 lG10
+chr - lgX lgX 0 8676460 lgx
+chr - Tcasspacer2 Tcas 0 10000000 white

@@ -1,0 +1,12 @@
+chr - Cglospacer1 Cglo 0 10000000 white
+chr - scaf1 lg5 0 75050035 lg5
+chr - scaf2 lg2b 0 56816963 lg2
+chr - scaf3 lg3 0 109611085 lg3
+chr - scaf4 lg7 0 81599725 lg7
+chr - scaf5 lg4 0 72353455 lg4
+chr - scaf6 lg9 0 67692486 lg9
+chr - scaf7 lg8 0 59159807 lg8
+chr - scaf8 lgX 0 13479537 lgx
+chr - scaf9 lg2a 0 58964884 lg2
+chr - scaf10 lg6 0 36732878 lg6
+chr - Cglospacer2 Cglo 0 10000000 white

@@ -1,0 +1,12 @@
+chr - Tdicspacer1 Tdic 0 10000000 white
+chr - chr1 chr1 0 94631200 lg3
+chr - chr10 chr10 0 16936900 lgx
+chr - chr2 chr2 0 84697912 lg7
+chr - chr3 chr3 0 76798756 lg5
+chr - chr4 chr4 0 71035100 lg4
+chr - chr5 chr5 0 61450322 lg9
+chr - chr6 chr6 0 60167600 lg2
+chr - chr7 chr7 0 55064000 lg8
+chr - chr8 chr8 0 50804164 lg2
+chr - chr9 chr9 0 35212100 lg6
+chr - Tdicspacer2 Tdic 0 10000000 white
